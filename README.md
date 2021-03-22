@@ -3,7 +3,7 @@ Designed a 4-way set associative cache with WB, Write Allocate  and employed Pse
 
 Authors: 
 - Durganila Anandhan (anandhan@pdx.edu)
-- Eric Fox (eric@pdx.edu)
+- Erik Fox (erfox@pdx.edu)
 - Manjari Rajasekharan(manjari@pdx.edu)
 - Prem Sai Gudreddygari Chandra (premsai@pdx.edu)
 
